@@ -1,4 +1,10 @@
 # Simple
+
+支持原作者QwQ谢谢喵
+
+快捷传送门:<a href="https://github.com/Developed-QwQ">Developed-QwQ</a>
+
+
 因为作者要成为现充所以废弃不写了
 所需库：
 #https://www.boost.org/doc/libs/1_85_0/doc/html/boost_asio.html
